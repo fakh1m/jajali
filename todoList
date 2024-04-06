@@ -1,0 +1,7 @@
+1. buatlah project rest API client (CRUD operation) mengunakan template standar dari https://cli.vuejs.org/ dengan library pengambilan data menggunakan axios (environment Node.js dan NPM);
+2. Resource API dapat menggunakan open API https://jsonplaceholder.typicode.com/ dengan ambil endpoint "/todos";
+3. Dengan kasus sebagai berikut :
+	a. Menampilkan data todos dengan pagination limit 10 serta aksi untuk menambahkan, mengubah, dan menghapus record.
+	b. Implementasikan penggunaan input binding, reusable component, passing pro, dan slot pada component.
+	c. Implementasikan routing view untuk berpindah halaman
+	d. Implementasikan state manajemen dan user session akan menjadi nilai lebih,
